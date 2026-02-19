@@ -33,8 +33,8 @@
         android:paddingHorizontal="50dp">
 
         <Button
-            android:id="@+id/button_cold_drinks"
-            android:text="@string/cold_drinks"
+            android:id="@+id/button_antojitos"
+            android:text="@string/antojitos"
             android:textColor="@color/white"
             android:background="@drawable/first_gradient"
             android:paddingHorizontal="@dimen/menu_buttons_paddings"
@@ -44,8 +44,8 @@
             android:textSize="@dimen/menu_buttons_text"/>
 
         <Button
-            android:id="@+id/button_hot_drinks"
-            android:text="@string/hot_drinks"
+            android:id="@+id/button_especialidades"
+            android:text="@string/especialidades"
             android:textColor="@color/white"
             android:background="@drawable/first_gradient"
             android:paddingHorizontal="@dimen/menu_buttons_paddings"
@@ -55,8 +55,8 @@
             android:textSize="@dimen/menu_buttons_text"/>
 
         <Button
-            android:id="@+id/our_menu"
-            android:text="@string/our_menu"
+            android:id="@+id/button_combinations"
+            android:text="@string/combinations"
             android:textColor="@color/white"
             android:background="@drawable/first_gradient"
             android:paddingHorizontal="@dimen/menu_buttons_paddings"
@@ -66,8 +66,8 @@
             android:textSize="@dimen/menu_buttons_text"/>
 
         <Button
-            android:id="@+id/combos"
-            android:text="@string/combos"
+            android:id="@+id/button_tortas"
+            android:text="@string/tortas"
             android:textColor="@color/white"
             android:background="@drawable/first_gradient"
             android:paddingHorizontal="@dimen/menu_buttons_paddings"
@@ -77,8 +77,8 @@
             android:textSize="@dimen/menu_buttons_text"/>
 
         <Button
-            android:id="@+id/sweets"
-            android:text="@string/sweets"
+            android:id="@+id/button_sopas"
+            android:text="@string/sopas"
             android:textColor="@color/white"
             android:background="@drawable/first_gradient"
             android:paddingHorizontal="@dimen/menu_buttons_paddings"
@@ -88,8 +88,8 @@
             android:textSize="@dimen/menu_buttons_text"/>
 
         <Button
-            android:id="@+id/salties"
-            android:text="@string/salties"
+            android:id="@+id/button_drinks"
+            android:text="@string/drinks"
             android:textColor="@color/white"
             android:background="@drawable/first_gradient"
             android:paddingHorizontal="@dimen/menu_buttons_paddings"
